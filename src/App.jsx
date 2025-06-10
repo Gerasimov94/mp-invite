@@ -153,6 +153,9 @@ function App() {
                 Давайте встретим утро весело и энергично!
                 Приносите завтрак с собой - соберем общий стол ☀️
               </Paragraph>
+              <Paragraph style={{ fontSize: '18px', marginBottom: '24px', lineHeight: '1.5' }}>
+                По всем вопросам — <a href="https://t.me/Gerasimov_Alexey">Леша</a>
+              </Paragraph>
               </div>
 
             {/* Footer */}
